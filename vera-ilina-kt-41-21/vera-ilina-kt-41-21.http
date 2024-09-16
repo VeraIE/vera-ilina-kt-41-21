@@ -1,0 +1,6 @@
+@vera_ilina_kt_41_21_HostAddress = http://localhost:5167
+
+GET {{vera_ilina_kt_41_21_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
