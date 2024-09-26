@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\vera-ilina-kt-41-21.props" />
+</Project>
