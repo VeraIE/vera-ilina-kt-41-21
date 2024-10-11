@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vera-ilina-kt-41-21")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2f3e1e5c5f6aa572e1f0d44e39a4b506cfa9740")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f34239fee6d36103d47005fdd181b476b3e841c")]
 [assembly: System.Reflection.AssemblyProductAttribute("vera-ilina-kt-41-21")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vera-ilina-kt-41-21")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
